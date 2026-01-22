@@ -1,6 +1,7 @@
 # pygame-retina
 
-Simple demo showing how to get retina level text with pygame or arcade on MacOS
+simple demo on how to get macos retina resolution text on pygame
+Simple demo showing how to get MacOS retina resolution text on arcade or pygame
 
 The problem here is that if you use integrated fonts with pygame or arcade, the retina scaling does not work properly and looks fuzzy and antialiased. Really ugly.
 
